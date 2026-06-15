@@ -1,15 +1,11 @@
 # Cardiovascular Disease Prediction
 
-## Description
-Predictive modeling pipeline for cardiovascular disease risk assessment.
+This repository contains the Jupyter Notebooks and source code for the **Cardiovascular Disease Prediction** project. It includes data preprocessing, model training, and evaluation scripts.
 
-## Category
-Predictive Modeling
+## Tech Stack & Libraries Used
 
-## Tech Stack / Tags
-- Python
-- Jupyter
-- Healthcare AI
+- `pandas`
+- `sklearn`
 
 ---
 *This repository is part of my AI Engineer / Data Scientist Portfolio.*
